@@ -4,6 +4,7 @@ import Calculator from './components/calculator'
 function App() {
   return (
     <div>
+      // calculator components
       <Calculator/>
     </div>
   )
