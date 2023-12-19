@@ -63,4 +63,18 @@ function Calculator() {
   )
 }
 
+
+// This is a single-line comment in React
+const MyComponent = () => {
+    return (
+      <div>
+        {/* This is a comment inside JSX */}
+        <p>Hello, World!</p>
+      </div>
+    );
+  };
+  
+
+
 export default Calculator
+
